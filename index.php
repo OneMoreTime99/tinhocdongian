@@ -1,1 +1,3 @@
-hello viet
+<?php
+echo "tin hoc don gian";
+?>
